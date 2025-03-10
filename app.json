@@ -4,11 +4,11 @@
     "slug": "Task.AI",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/TaskAILogo.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/TaskAILogo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -19,14 +19,10 @@
       "permissions": ["android.permission.INTERNET"],
       "usesCleartextTraffic": true,
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/TaskAILogo.png",
         "backgroundColor": "#ffffff"
-<<<<<<< HEAD
-      }
-=======
       },
       "package": "com.kpcwdev.TaskAI"
->>>>>>> 27365ef (Final version of the application)
     },
     "plugins": [
       [
@@ -45,7 +41,7 @@
       ]
     ],
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/TaskAILogo.png"
     }
   }
 }

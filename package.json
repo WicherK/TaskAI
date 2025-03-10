@@ -9,15 +9,6 @@
     "web": "expo start --web"
   },
   "dependencies": {
-<<<<<<< HEAD
-    "expo": "~52.0.37",
-    "expo-status-bar": "~2.0.1",
-    "react": "18.3.1",
-    "react-native": "0.76.7"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.20.0"
-=======
     "@expo/metro-runtime": "~4.0.1",
     "@react-native-community/masked-view": "^0.1.11",
     "@react-native-google-signin/google-signin": "^13.2.0",
@@ -40,7 +31,6 @@
     "react-native-screens": "~4.4.0",
     "react-native-svg": "15.8.0",
     "react-native-web": "~0.19.13"
->>>>>>> 27365ef (Final version of the application)
   },
   "private": true
 }

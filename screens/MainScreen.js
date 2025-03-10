@@ -130,10 +130,10 @@ export default function MainScreen() {
             </TouchableOpacity>
         </View>
 
-        <Text style={styles.taskTitle}>{json.mainTitle}</Text>
+        <Text style={styles.taskTitle}>{json?.mainTitle}</Text>
 
         <ScrollView style={styles.scrollList}>
-            {taskList.map((element, index) =>
+            {taskList?.map((element, index) =>
             <TaskComponent key={index} task={element} />
             )}
         </ScrollView>
