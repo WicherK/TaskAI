@@ -2,6 +2,8 @@
 
 TaskAI is an AI-powered assistant that helps you create a structured plan for completing tasks. Simply take a picture of what you're working on, add a few short keywords, and TaskAI will generate a detailed plan to help you stay organized and efficient.
 
+<img src="https://i.imgur.com/KV1HCJ0.png" width="300">
+
 ## Features
 
 - AI-powered task planning
